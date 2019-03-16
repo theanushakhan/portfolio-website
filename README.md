@@ -13,6 +13,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 - [ ] Create a forked copy of this project.
 ##completed this
 ##added another comment
+##added comment
 - [ ] Add PM as collaborator on Github.
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [ ] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
